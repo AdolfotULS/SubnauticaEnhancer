@@ -6,6 +6,7 @@ namespace SubnauticaEnhancer.ESP
 {
     public class RenderEngine : MonoBehaviour
     {
+        // NEED CHANGES
         private Dictionary<string, Color> resourceRenderColors = new Dictionary<string, Color>
         {
             { "creatureEggs", Color.green },
